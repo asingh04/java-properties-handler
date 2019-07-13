@@ -13,5 +13,8 @@
     "json"
   ],
   "author": "Abhishek Singh",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.0"
+  }
 }
