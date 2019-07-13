@@ -1,0 +1,17 @@
+{
+  "name": "java-porps-handler",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "dot",
+    "properties",
+    "json"
+  ],
+  "author": "Abhishek Singh",
+  "license": "MIT"
+}
